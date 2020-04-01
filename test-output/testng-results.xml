@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-04T16:39:40 IST" name="Default suite" finished-at="2020-03-04T16:39:43 IST" duration-ms="2914">
+    <groups>
+    </groups>
+    <test started-at="2020-03-04T16:39:40 IST" name="Default test" finished-at="2020-03-04T16:39:43 IST" duration-ms="2914">
+      <class name="restassuredTest.ApiTest">
+        <test-method signature="testapi()[pri:0, instance:restassuredTest.ApiTest@5b0abc94]" started-at="2020-03-04T16:39:40 IST" name="testapi" finished-at="2020-03-04T16:39:43 IST" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testapi -->
+      </class> <!-- restassuredTest.ApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
